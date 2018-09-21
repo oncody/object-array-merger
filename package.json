@@ -1,0 +1,11 @@
+{
+  "name": "object-array-merger",
+  "version": "1.0.0",
+  "description": "Object merger that merges array values",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Cody Smith",
+  "license": "ISC"
+}
